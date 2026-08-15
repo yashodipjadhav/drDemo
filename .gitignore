@@ -1,0 +1,39 @@
+# Node modules
+/node_modules/
+
+# Build directories
+/dist/
+/dist-ssr/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment files
+.env
+
+# OS and editor specific files
+.DS_Store
+Thumbs.db
+
+# IDE directories and files
+.vscode/
+.idea/
+
+# React specific build output
+/build/
+
+# Local development environment files
+*.local
+
+# Other unwanted files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
